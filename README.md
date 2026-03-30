@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Maria F. Godinez Arenas
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I am a shophomore college student at the University of Texas at San Antonio. I love listening to music, dancing, and baking._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
